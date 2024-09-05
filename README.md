@@ -1,4 +1,8 @@
 # desafio_target
+Desafio realizado para oportunidade de estágio da empresa Target.
+
+
+
 Infelizmente não consegui fazer o exercício ex03. Atualmente tenho conhecimentos básicos em C e não encontrei uma maneira acessível de fazer nessa linguagem.
 Irei guardar para uma outra oportunidade.
 
